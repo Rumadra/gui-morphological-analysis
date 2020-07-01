@@ -1,6 +1,9 @@
 # gui-morphological-analysis
 
 入力した文章を形態素解析し、品詞を色別に画面に表示するプログラム。
+* 名詞(noun) → 青
+* 動詞(verb) → 赤
+* 形容詞(adjective) → 緑
 
 ### 動作確認環境
 * Mac OS 10.15.2
