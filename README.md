@@ -6,7 +6,8 @@
 * 形容詞(adjective) → 緑
 
 ### 動作確認環境
-* Mac OS 10.15.2
-* Python 3.7.4
+* Mac OS: 10.15.2
+* Python: 3.7.4
+* 形態素解析器: Mecab
 
 ![python-gui](https://user-images.githubusercontent.com/31647014/86218993-87835b80-bbbc-11ea-8111-f250afbd4df3.png)
